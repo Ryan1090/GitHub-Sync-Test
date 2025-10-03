@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Github Sync Test
- * Description: test wordpress <- github sync works goog
+ * Description: test wordpress <- github sync works
  * Author: Ryan Marrington
  * GitHub Plugin URI: https://github.com/Ryan1090/GitHub-Sync-Test
  * Primary Branch: main
