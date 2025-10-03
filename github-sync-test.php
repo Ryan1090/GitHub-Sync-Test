@@ -3,6 +3,7 @@
 /**
  * Plugin Name: Github Sync Test
  * Description: test wordpress <- github sync works
+ * GitHub Plugin URI: Ryan1090/GitHub-Sync-Test
  * Version 1.0.0
  */
 
