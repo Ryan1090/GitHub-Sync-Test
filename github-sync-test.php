@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Github Sync Test
- * Description: test wordpress <- github sync
+ * Description: test wordpress <- github sync works
  * Version 1.0.0
  * Author: Ryan Marrington
  */
